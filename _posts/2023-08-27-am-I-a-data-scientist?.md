@@ -8,7 +8,7 @@ This blog aims to answer the following questions...
 -How do you view yourself in relation to these two areas?
 
 ```
-Are my code blocks workings?
+Are my code blocks working?
 ```
 Data scientists study structured data, which is quantitative data like numbers and dates, and unstructured data, which includes words, images and videos.
   Structured data ED visits, heat indices. Unstructured data like triage notes and chief complaints
